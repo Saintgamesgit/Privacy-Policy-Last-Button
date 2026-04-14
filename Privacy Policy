@@ -1,0 +1,30 @@
+Last Button does not collect or store any personally identifiable information outside of Steam services.
+
+Information we use:
+SteamID (for multiplayer matchmaking and game sessions)
+Steam username (display purposes in-game)
+Steam avatar (display purposes in-game)
+Gameplay session data (temporary, used only during matches)
+
+What we do NOT do:
+We do not sell or share user data
+We do not collect personal information like real names, emails, or addresses
+We do not use third-party analytics or tracking systems
+
+Multiplayer:
+
+The game uses Steam Networking services. This may involve:
+
+IP address routing (handled by Steam)
+Temporary session data required for online gameplay
+
+We do not have access to or store this data ourselves.
+
+Data storage:
+
+No permanent player data is stored on our servers.
+
+Third-party services:
+
+The game uses Valve’s Steam platform. Please refer to:
+https://store.steampowered.com/privacy_agreement/
